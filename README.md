@@ -29,5 +29,3 @@ To install the required packages:
 ```bash
 pip install pandas numpy matplotlib plotly seaborn tensorflow
 
-
-Let me know if you'd like this version saved into a new `README.md` file as well.
